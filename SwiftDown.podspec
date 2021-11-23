@@ -107,7 +107,7 @@ Pod::Spec.new do |spec|
 
   # spec.resource  = "icon.png"
   # spec.resources = "Resources/*.png"
-  spec.resources = "Sources/SwiftDown/Resources/Themes/*.json"
+  spec.resources = "Sources/SwiftDown/Resources/Themes"
   
   
   # spec.preserve_paths = "FilesToSave", "MoreFilesToSave"
